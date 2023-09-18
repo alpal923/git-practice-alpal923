@@ -1,2 +1,4 @@
 This is my first file.
 This is my own new line.
+
+The blood red sky was an eery backdrop to an already bleary desert.
