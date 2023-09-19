@@ -1,0 +1,272 @@
+   12  cd gitlab
+   80  pip install -r https://raw.githubusercontent.com/snowflakedb/snowflake-connector-python/v2.7.6/tested_requirements/requirements_36.reqs
+  360  git clone https://github.com/esnt/Data/tree/main/Ames STAT486
+  361  git clone https://github.com/esnt/Data.git
+  362  sudo apt install git
+  375  git clone https://github.com/esnt/Data.git
+  394  git clone git@github.com:esnt/Data.git
+  396  git clone git@github.com:byu-stat486-winter2023/project-1-womeninstem.git
+  398  echo "# STAT469" >> README.md\ngit init\ngit add README.md\ngit commit -m "first commit"\ngit branch -M main\ngit remote add origin git@github.com:alpal923/STAT469.git\ngit push -u origin main
+  400  git init
+  401  git add README.md
+  402  git commit -m "first commit"
+  403  git branch -M main
+  404  git remote add origin git@github.com:alpal923/STAT469.git
+  405  git push -u origin main
+  409  brew install git
+  419  git init
+  420  git add .
+  421  git status
+  422  git add .
+  423  git status
+  424  git commit -m 'Sections 1-4 finished with exception of question 4.3"\n'
+  425  git remote add origin 'https://github.com/alpal923/STAT469-PedagogyProject'
+  426  git push
+  427  git push origin main
+  428  git push -u origin main
+  429  git push -u origin master
+  575  git clone git@vivint_gitlab.com:vivint/horizontals/product-analytics/genesys-nlp-project.git
+  576  git clone git@vivint_gitlab:vivint/horizontals/product-analytics/genesys-nlp-project.git
+  577  git clone git@vivint_gitlab:vivint/horizontals/product-analytics/genesys-nlp-project.gi
+  659  git --version
+  660  git config --global use.name "Aly Milne"
+  661  git config --global user.email "aam923@byu.edu"
+  662  git config --global core.editor "code --wait"
+  663  git config --global init.defaultBranch main
+  675  mkdir git_practice
+  676  cd git_practice
+  679  git status
+  681  git init
+  682  git status
+  684  rm -rf .git
+  689  git status
+  690  git init
+  691  git commit -m 'hey'
+  692  git add file_1.txt
+  693  git status
+  694  git commit -m 'create new file'
+  722  git init
+  723  git kill
+  724  rmdir /.git
+  726  rm -rf ./git
+  733  git init
+  734  git pull 'git@gitlab.com:vivint/horizontals/product-analytics/innovation-weeks.git'
+  736  git pull 'git@gitlab.com:vivint/horizontals/product-analytics/innovation-weeks.git'
+  737  git status
+  738  git add sep_2023/alpal-sept-innov-week/
+  739  git status
+  740  git commit -m 'add files for Aly's animations'\n\n-q\n'
+  741  git commit -m 'add files for Alys animations'
+  742  git push sep_2023
+  743  git push --set-upstream sep_2023 main
+  744  git push sep_2023/alpal-sept-innov-week
+  745  git push --set-upstream sep_2023/alpal-sept-innov-week main
+  746  git status
+  755  git --version
+  756  git config --global core.editor "code --wait"
+  757  git config --global init.defaultBranch main
+  768  git init
+  770  cd git_practice
+  773  git -add
+  774  git add
+  775  git add .
+  776  git commit
+  777  git commit -m "hello, world"
+  778  git push .
+  779  git push --set-upstream . main
+  784  git init
+  786  git remote add origin https://github.com/alpal923/STAT-386
+  787  git add git_practice
+  788  rm -rf ./git
+  789  git remote add origin https://github.com/alpal923/STAT-386
+  791  rm -rf .git
+  793  git remote add origin https://github.com/alpal923/STAT-386
+  794  git add git_practice
+  795  git quit
+  798  git remote add origin https://github.com/alpal923/STAT-386
+  799  git clone https://github.com/alpal923/STAT-386
+  800  git clone https://github.com/alpal923/STAT-386
+  801  git init
+  802  git clone https://github.com/alpal923/STAT-386
+  803  git clone git@github.com:alpal923/STAT-386.git
+  804  git add git_practice
+  805  git submodule add git@github.com:alpal923/STAT-386.git git_practice
+  806  git status
+  807  rm -rf .git
+  813  git status
+  816  git clone git@github.com:alpal923/STAT-386-GitHub.git
+  821  touch git_practice
+  823  cd git_practice
+  824  rm -rf git_practice
+  826  mkdir git_practice
+  828  cd git_practice
+  831  touch .gitignore
+  834  nano .gitignore
+  842  git add git_practice
+  843  git status
+  844  git commit .
+  845  git commit . -m 'practice add'
+  846  git status
+  847  git push
+  849  cd git_practice
+  853  git status
+  854  git add practice.ipynb
+  855  git commit practice.ipynb
+  856  git commit practice.ipynb -m 'add practice code file'
+  857  git push
+  873  mkdir git_practice
+  874  cd git_practice
+  876  git init
+  878  git status
+  881  git status
+  882  git add .
+  883  git status
+  884  git commit . -m 'create new files'
+  885  git status
+  886  git log
+  889  git status
+  890  git add .
+  891  git commit file_1.txt -m 'change file_1.txt'
+  892  git status
+  893  git commit file_2.txt -m 'change file_2.txt'
+  894  git log
+  898  git status
+  899  git add Readme.md
+  900  git commit Readme.md -m 'add Readme.md'
+  901  touch .gitignore
+  902  nano .gitignore
+  903  git add .gitignore
+  904  git commit .gitignore -m 'add .gitignore'
+  907  git status
+  908  nano .gitignore
+  910  git status
+  911  git checkout -b features
+  912  git log
+  914  git log
+  916  git add new_features.txt
+  917  git commit new_features.txt -m 'add empty file'
+  927  cd git_practice
+  928  git init
+  930  git log
+  931  git switch features
+  932  git log
+  934  git commit . -m 'change new_features.txt'
+  935  git switch main
+  937  git commit . -m 'add my own line to file_1.txt'
+  938  git merge main features
+  939  git commit 
+  942  git code --version
+  943  git config --global core.editor "code --wait"
+  945  git merge main features
+  946  git commit . -m 'testing'
+  947  git commit -m 'testing'
+  948  git merge main features
+  950  git log
+  951  git switch main
+  953  git add .
+  954  git commit . -m 'change new features'
+  955  git switch features
+  957  git add .
+  958  git commit . -m 'changed new features again'
+  959  git switch main
+  960  git merge main features
+  961  git config --global core.editor "code --wait"
+  962  git merge main features
+  965  rm -rf .git
+  967  git init
+  968  git log
+  969  git status
+  970  git switch features
+  973  git log
+  974  git add .
+  975  git commit . -m 'whaddup'
+  977  git log
+  978  rm -rf .git
+  981  cd git_practice
+  989  git init
+  991  git status
+  994  git status
+  995  git add .
+  996  git status
+  997  git commit . -m 'create new files'
+  998  git status
+  999  git log
+ 1008  cd git_practice
+ 1012  git status
+ 1013  git add file_1.txt
+ 1014  git commit . -m 'edit file_1'
+ 1015  git status
+ 1018  git add file_1.txt
+ 1019  git commit file_1.txt -m 'change file_1.txt to remove period'
+ 1020  git status
+ 1021  git add file_2.txt
+ 1022  git commit file_2.txt -m 'change file_2.txt to remove period'
+ 1023  git log
+ 1026  git add Readme.md
+ 1027  git commit Readme.md -m 'add Readme file'
+ 1028  touch .gitignore
+ 1029  nano .gitignore
+ 1030  git add .gitignore
+ 1031  git commit .gitignore -m 'add/change .gitignore'
+ 1032  nano .gitignore
+ 1033  git add .gitignore
+ 1034  git commit .gitignore -m 'change git ignore so I can change it again lol'
+ 1035  nano .gitignore
+ 1036  git add .gitignore
+ 1037  git commit .gitignore -m 'change .gitignore'
+ 1039  git status
+ 1041  git status
+ 1042  git checkout -b features
+ 1044  git log
+ 1046  git add new_features.txt
+ 1047  git commit new_features.txt -m 'add empty file'
+ 1049  git add new_features.txt
+ 1050  git commit new_features.txt -m 'add text to new_features'
+ 1051  git log
+ 1052  git switch main
+ 1055  git add file_1.txt
+ 1056  git commit file_1.txt -m 'add line to file_1'
+ 1057  git merge main features
+ 1058  git commit
+ 1059  git commit -m 'merge branches'
+ 1060  git log
+ 1061  git switch main
+ 1063  git add new_features.txt
+ 1064  git commit new_features.txt -m 'change new_features on main'
+ 1065  git switch features
+ 1067  git add new_features.txt
+ 1068  git commit new_features.txt -m 'change new_features on features'
+ 1069  git switch main
+ 1070  git merge main features -m 'merge main and features'
+ 1073  git merge main features -m 'merge main and features'
+ 1074  git merge main features -m 'merge main and features'
+ 1075  git commit . -m 'merge weirdness'
+ 1076  git commit
+ 1077  git commit . -m 'merge weirdness'
+ 1078  git merge main features -m 'merge main and features'
+ 1079  git switch features
+ 1080  git merge --quit
+ 1081  git switch features
+ 1082  git merge --quit
+ 1083  git log
+ 1084  git switch features
+ 1085  git commit . -m 'still merge weirdness'
+ 1086  git switch features
+ 1087  git merge meain features -m 'merge weirdness continues'
+ 1088  git merge main features -m 'merge weirdness continues'
+ 1089  git merge main features -m 'merge weirdness continues'
+ 1091  git merge main features -m 'merge branches'
+ 1092  git commit . -m 'still merge weirdness'
+ 1093  git merge --quit
+ 1094  git commit . -m 'still merge weirdness'
+ 1095  git merge main features -m 'merge branches'
+ 1096  git branch --delete features
+ 1097  git switch main
+ 1098  git branch --delete features
+ 1099  git merge main features -m 'merge branches again?'
+ 1100  git branch --delete features
+ 1101  git remotw add origin git@github.com:alpal923/git-practice-alpal923.git
+ 1102  git remote add origin git@github.com:alpal923/git-practice-alpal923.git
+ 1103  git push -u origin main
+ 1130  git pull
+ 1131  git log --oneline > gitlog.txt

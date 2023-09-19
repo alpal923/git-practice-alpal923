@@ -1,0 +1,18 @@
+aadd0be Merge pull request #1 from camilla47/feature-camilla47
+06a8127 making changes to Aly's file_1
+2a407f7 merge branches
+ca6bdc3 still merge weirdness
+b3ae506 still merge weirdness
+b0a1ce5 change new_features on features
+e6622b8 change new_features on main
+04598ce merge branches
+b687a50 add line to file_1
+a820f60 add text to new_features
+41b6bee add empty file
+bcba522 change .gitignore
+b636bad change git ignore so I can change it again lol
+80276f2 add Readme file
+fb327c4 change file_2.txt to remove period
+f0ad459 change file_1.txt to remove period
+7155ab7 edit file_1
+e4b9678 create new files
